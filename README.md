@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @smoljuice
+- 👀 I’m interested in puzzles, playing music, and anime.
+- 🌱 I’m currently finishing up my Master's Degree in Data Science and Analytics from Thomas Edison State University
+- 💞️ I’m looking for an entry level position in Data Science or Analytics
+- 📫 You can reach me by the email in my profile!
